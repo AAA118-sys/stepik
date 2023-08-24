@@ -1,3 +1,3 @@
 # stepik
 
-Test text
+simple test case added
